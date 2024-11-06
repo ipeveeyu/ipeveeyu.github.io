@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ipeveeyu.github.io/CNF/sitemap_index.txt
+Sitemap: https://ipeveeyu.github.io/iZa/sitemap_index.txt
+Sitemap: https://ipeveeyu.github.io/lWa/sitemap_index.txt
+Sitemap: https://ipeveeyu.github.io/yak/sitemap_index.txt
